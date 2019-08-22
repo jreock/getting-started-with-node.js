@@ -1,7 +1,7 @@
 # Getting Started with Node.js Companion Demos
 Demos from my "Getting Started with Node.js" Talk  
 
-[Download Slides](https://www.slideshare.net/JustinReock/getting-started-with-nodejs-165619393)
+[Download Slides](https://www.slideshare.net/JustinReock/getting-started-with-nodejs-165630907)
 
 ## Instructions
 
