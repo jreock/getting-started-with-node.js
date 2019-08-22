@@ -1,0 +1,17 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "An amazing platform for saying hello",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Hello!"
+  ],
+  "author": "Justin Reock",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "1.3.3"
+  }
+}
